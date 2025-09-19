@@ -1,5 +1,6 @@
  ------ Set Up Instructions ---------
 git clone https://github.com/Ankush00007/Patient-Records-Platform.git
+<br/>
 cd Patient-Records-Platform
 npm install
 npm start
